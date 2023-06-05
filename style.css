@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to right, #e66465, #9198e5);
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Space Mono', monospace;
+}
+h1{
+    width: 100%;
+    text-align: center;
+    font-weight: bolder;
+}
+
+/* .container{
+    opacity: 0.5;
+} */
+.container2{
+    width: 100%;
+    text-align: center;
+    background-color: rgba(245, 245, 220,0.5);
+}
+#myInput{
+    background-color: rgba(224, 224, 196, 0);
+    width: 100%;
+    text-align: center;
+    margin: 5px;
+    border: 0px solid;
+}
+.btn{
+    margin: 3px;
+}
